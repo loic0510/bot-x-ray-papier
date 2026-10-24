@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bot X-Ray</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23141412'/%3E%3Cpath d='M6 22 L12 15 L17 18 L26 8' stroke='%23F4F2EE' stroke-width='3' fill='none' stroke-linecap='round'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="css/app.css" />
+  </head>
+  <body>
+    <header class="top">
+      <div class="brand">
+        Bot X-Ray <small>public data, your machine</small>
+      </div>
+      <form class="who" id="who" autocomplete="off">
+        <input
+          id="wallet"
+          name="wallet"
+          placeholder="Paste a Polymarket wallet or username"
+          aria-label="Polymarket wallet or username"
+        />
+        <button class="btn" type="submit">X-ray it</button>
+      </form>
+      <div class="chips" id="chips"></div>
+    </header>
+    <nav class="tabs" id="tabs">
+      <a href="#/wallet" data-tab="wallet">Wallet</a>
+      <a href="#/does" data-tab="does">What it does</a>
+      <a href="#/luck" data-tab="luck">Skill or luck</a>
+      <a href="#/working" data-tab="working">Still working?</a>
+      <a href="#/convert" data-tab="convert">Trade it with a broker</a>
+      <span class="sep"></span>
+      <a href="#/winning" data-tab="winning">Who's winning now</a>
+      <a href="#/live" data-tab="live">Live gap</a>
+      <a href="#/strategy" data-tab="strategy">Strategy (paper)</a>
+      <a href="#/claude" data-tab="claude">Connect Claude</a>
+    </nav>
+    <main id="main"></main>
+    <script type="module" src="js/app.js"></script>
+  </body>
+</html>

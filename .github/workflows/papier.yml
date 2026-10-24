@@ -1,0 +1,36 @@
+name: Simulation papier
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: papier
+  cancel-in-progress: false
+
+jobs:
+  passage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Un passage de simulation
+        env:
+          BOTXRAY_DATA: papier
+        run: node scripts/scan-once.js
+      - name: Enregistrer les résultats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add papier RESULTATS.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Passage papier $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase -q
+          git push -q
