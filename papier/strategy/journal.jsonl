@@ -6,3 +6,7 @@
 {"at":"2026-10-25T16:01:32.813Z","event":"settle","id":"mvns3wq3cvj7","ticker":"KXETHD-26OCT2509-T2329.99","paid":0,"pnl":-25}
 {"at":"2026-10-25T16:01:35.217Z","event":"open","id":"mvo0mdwx5kkq","mode":"paper","openedAt":"2026-10-25T16:01:35.217Z","venue":"kalshi","coin":"eth","ticker":"KXETHD-26OCT2513-T2334.99","label":"ETH above $2,335","side":"no","K":2334.99,"w":null,"closes":1792947600,"expiry":null,"price":0.28,"cost":0.29411200000000004,"fair":0.3436877131043492,"edge":0.04957571310434916,"units":85.00163203133499,"stake":25,"S":2339.49,"sigma":0.4511615416668428,"marketVol":0.34118907954662536,"legs":null}
 {"at":"2026-10-25T18:55:46.446Z","event":"settle","id":"mvo0mdwx5kkq","ticker":"KXETHD-26OCT2513-T2334.99","paid":0,"pnl":-25}
+{"at":"2026-10-25T21:18:33.195Z","event":"settle","id":"mvn1k4d0eyv4","ticker":"KXBTCD-26OCT2517-T79999.99","paid":0,"pnl":-25}
+{"at":"2026-10-25T21:18:33.224Z","event":"settle","id":"mvn1k4d0rvzx","ticker":"KXETHD-26OCT2517-T2389.99","paid":0,"pnl":-25}
+{"at":"2026-10-25T21:18:33.256Z","event":"settle","id":"mvn1k4d0e0zg","ticker":"KXBTCD-26OCT2517-T80249.99","paid":0,"pnl":-25}
+{"at":"2026-10-25T21:18:33.306Z","event":"settle","id":"mvn5qli61pho","ticker":"KXBTCD-26OCT2517-T81499.99","paid":0,"pnl":-25}
