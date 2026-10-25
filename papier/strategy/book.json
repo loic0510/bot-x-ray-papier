@@ -95,30 +95,6 @@
    "sigma": 0.3097730869348869,
    "marketVol": 0.2398909511180382,
    "legs": null
-  },
-  {
-   "id": "mvo0mdwx5kkq",
-   "mode": "paper",
-   "openedAt": "2026-10-25T16:01:35.217Z",
-   "venue": "kalshi",
-   "coin": "eth",
-   "ticker": "KXETHD-26OCT2513-T2334.99",
-   "label": "ETH above $2,335",
-   "side": "no",
-   "K": 2334.99,
-   "w": null,
-   "closes": 1792947600,
-   "expiry": null,
-   "price": 0.28,
-   "cost": 0.29411200000000004,
-   "fair": 0.3436877131043492,
-   "edge": 0.04957571310434916,
-   "units": 85.00163203133499,
-   "stake": 25,
-   "S": 2339.49,
-   "sigma": 0.4511615416668428,
-   "marketVol": 0.34118907954662536,
-   "legs": null
   }
  ],
  "closed": [
@@ -149,6 +125,34 @@
    "back": 0,
    "pnl": -25,
    "settledAt": "2026-10-25T16:01:32.813Z"
+  },
+  {
+   "id": "mvo0mdwx5kkq",
+   "mode": "paper",
+   "openedAt": "2026-10-25T16:01:35.217Z",
+   "venue": "kalshi",
+   "coin": "eth",
+   "ticker": "KXETHD-26OCT2513-T2334.99",
+   "label": "ETH above $2,335",
+   "side": "no",
+   "K": 2334.99,
+   "w": null,
+   "closes": 1792947600,
+   "expiry": null,
+   "price": 0.28,
+   "cost": 0.29411200000000004,
+   "fair": 0.3436877131043492,
+   "edge": 0.04957571310434916,
+   "units": 85.00163203133499,
+   "stake": 25,
+   "S": 2339.49,
+   "sigma": 0.4511615416668428,
+   "marketVol": 0.34118907954662536,
+   "legs": null,
+   "paid": 0,
+   "back": 0,
+   "pnl": -25,
+   "settledAt": "2026-10-25T18:55:46.446Z"
   }
  ]
 }
