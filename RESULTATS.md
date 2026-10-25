@@ -1,10 +1,10 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-10-25 12:03 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-10-25 16:01 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
-| 0 | 0 | $0.00 | – | $0.00 | 5 | $125.00 |
+| 1 | 0 | −$25.00 | -100.0 % | $3.44 | 5 | $125.00 |
 
 ## Positions ouvertes
 
@@ -14,11 +14,13 @@ Dernier passage : 2026-10-25 12:03 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-10-24T23:40 | ETH above $2,390 | yes | 0.21 | $25.00 | 4.3 ¢ |
 | 2026-10-24T23:40 | BTC above $80,250 | no | 0.28 | $25.00 | 4.1 ¢ |
 | 2026-10-25T01:37 | BTC above $81,500 | yes | 0.2 | $25.00 | 3.5 ¢ |
-| 2026-10-25T12:03 | ETH above $2,330 | no | 0.27 | $25.00 | 3.9 ¢ |
+| 2026-10-25T16:01 | ETH above $2,335 | no | 0.28 | $25.00 | 5.0 ¢ |
 
 ## 20 derniers trades réglés
 
-Aucun pour l'instant.
+| Réglé le | Marché | Côté | Mise | Résultat |
+|---|---|---|---|---|
+| 2026-10-25T16:01 | ETH above $2,330 | no | $25.00 | −$25.00 |
 
 ## Ce passage
 
