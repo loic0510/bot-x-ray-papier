@@ -1,10 +1,10 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-01 23:52 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-02 02:59 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
-| 35 | 23 | $35.29 | 4.0 % | $92.35 | 6 | $150.00 |
+| 35 | 23 | $35.29 | 4.0 % | $92.35 | 7 | $175.00 |
 
 ## Positions ouvertes
 
@@ -16,6 +16,7 @@ Dernier passage : 2026-11-01 23:52 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-01T23:52 | BTC above $79,750 | no | 0.86 | $25.00 | 5.3 ¢ |
 | 2026-11-01T23:52 | BTC above $77,000 | yes | 0.81 | $25.00 | 5.0 ¢ |
 | 2026-11-01T23:52 | BTC above $76,500 | yes | 0.89 | $25.00 | 4.8 ¢ |
+| 2026-11-02T02:59 | ETH above $2,330 | no | 0.77 | $25.00 | 4.2 ¢ |
 
 ## 20 derniers trades réglés
 
@@ -44,6 +45,6 @@ Dernier passage : 2026-11-01 23:52 UTC. Argent fictif uniquement, aucun ordre r�
 
 ## Ce passage
 
-3 nouvelle(s) position(s), 22 échéance(s) lue(s).
+1 nouvelle(s) position(s), 22 échéance(s) lue(s).
 - IBIT options: the US market is closed, so these quotes are from the last session. Paper trades wait for the open.
 - ETHA options: the US market is closed, so these quotes are from the last session. Paper trades wait for the open.

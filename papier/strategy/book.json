@@ -152,6 +152,30 @@
    "sigma": 0.27488755186198677,
    "marketVol": 0.35602033687608625,
    "legs": null
+  },
+  {
+   "id": "mvyo7yzim6g2",
+   "mode": "paper",
+   "openedAt": "2026-11-02T02:59:55.230Z",
+   "venue": "kalshi",
+   "coin": "eth",
+   "ticker": "KXETHD-26NOV0217-T2329.99",
+   "label": "ETH above $2,330",
+   "side": "no",
+   "K": 2329.99,
+   "w": null,
+   "closes": 1793656800,
+   "expiry": null,
+   "price": 0.77,
+   "cost": 0.782397,
+   "fair": 0.8242280804883422,
+   "edge": 0.041831080488342165,
+   "units": 31.953087754682084,
+   "stake": 25,
+   "S": 2292.37,
+   "sigma": 0.3787535062337382,
+   "marketVol": 0.47454419921013424,
+   "legs": null
   }
  ],
  "closed": [
