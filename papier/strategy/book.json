@@ -125,6 +125,30 @@
    "sigma": 0.4210320192804262,
    "marketVol": 0.34924533337767827,
    "legs": null
+  },
+  {
+   "id": "mw3udbjogzoq",
+   "mode": "paper",
+   "openedAt": "2026-11-05T17:50:53.364Z",
+   "venue": "kalshi",
+   "coin": "btc",
+   "ticker": "KXBTCD-26NOV0517-T77249.99",
+   "label": "BTC above $77,250",
+   "side": "no",
+   "K": 77249.99,
+   "w": null,
+   "closes": 1793916000,
+   "expiry": null,
+   "price": 0.93,
+   "cost": 0.9345570000000001,
+   "fair": 0.9696811730618172,
+   "edge": 0.03512417306181714,
+   "units": 26.75064228292121,
+   "stake": 25,
+   "S": 75801.3,
+   "sigma": 0.46474187304037934,
+   "marketVol": 0.5446083917677558,
+   "legs": null
   }
  ],
  "closed": [
