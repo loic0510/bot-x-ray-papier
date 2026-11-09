@@ -1,10 +1,10 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-09 10:16 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-09 20:46 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
-| 64 | 41 | $240.09 | 15.0 % | $166.58 | 8 | $200.00 |
+| 66 | 41 | $190.09 | 11.5 % | $175.48 | 6 | $150.00 |
 
 ## Positions ouvertes
 
@@ -16,13 +16,13 @@ Dernier passage : 2026-11-09 10:16 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-08T23:10 | BTC above $72,500 | yes | 0.89 | $25.00 | 6.4 ¢ |
 | 2026-11-08T23:10 | BTC above $73,000 | yes | 0.84 | $25.00 | 6.3 ¢ |
 | 2026-11-09T02:37 | ETH above $2,080 | yes | 0.87 | $25.00 | 3.2 ¢ |
-| 2026-11-09T10:16 | BTC above $73,900 | no | 0.2 | $25.00 | 5.3 ¢ |
-| 2026-11-09T10:16 | BTC above $74,000 | no | 0.35 | $25.00 | 3.8 ¢ |
 
 ## 20 derniers trades réglés
 
 | Réglé le | Marché | Côté | Mise | Résultat |
 |---|---|---|---|---|
+| 2026-11-09T20:45 | BTC above $74,000 | no | $25.00 | −$25.00 |
+| 2026-11-09T20:45 | BTC above $73,900 | no | $25.00 | −$25.00 |
 | 2026-11-08T23:09 | BTC above $75,750 | no | $25.00 | $47.36 |
 | 2026-11-08T23:09 | BTC above $76,250 | yes | $25.00 | −$25.00 |
 | 2026-11-06T22:24 | BTC above $77,000 | no | $25.00 | $10.96 |
@@ -41,11 +41,9 @@ Dernier passage : 2026-11-09 10:16 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-04T22:49 | BTC above $79,500 | no | $25.00 | −$25.00 |
 | 2026-11-04T22:49 | BTC above $79,250 | no | $25.00 | −$25.00 |
 | 2026-11-03T22:26 | BTC above $77,500 | no | $25.00 | −$25.00 |
-| 2026-11-03T22:26 | BTC above $77,700 | yes | $25.00 | −$25.00 |
-| 2026-11-03T22:26 | ETH above $2,300 | yes | $25.00 | −$25.00 |
 
 ## Ce passage
 
-2 nouvelle(s) position(s), 24 échéance(s) lue(s).
+0 nouvelle(s) position(s), 24 échéance(s) lue(s).
 - IBIT options: the US market is closed, so these quotes are from the last session. Paper trades wait for the open.
 - ETHA options: the US market is closed, so these quotes are from the last session. Paper trades wait for the open.
