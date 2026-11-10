@@ -1,10 +1,10 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-10 18:13 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-10 23:23 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
-| 70 | 45 | $207.44 | 11.9 % | $182.71 | 3 | $75.00 |
+| 71 | 45 | $182.44 | 10.3 % | $186.28 | 4 | $100.00 |
 
 ## Positions ouvertes
 
@@ -12,12 +12,14 @@ Dernier passage : 2026-11-10 18:13 UTC. Argent fictif uniquement, aucun ordre r�
 |---|---|---|---|---|---|
 | 2026-10-30T17:21 | IBIT above $41 → $42 by 2026-11-30 | no | 0.31000000000000005 | $25.00 | 4.4 ¢ |
 | 2026-10-30T17:21 | ETHA above $45 → $47 by 2026-11-27 | no | 0.28 | $25.00 | 4.3 ¢ |
-| 2026-11-10T18:13 | BTC above $72,750 | no | 0.25 | $25.00 | 3.8 ¢ |
+| 2026-11-10T23:23 | BTC above $72,500 | no | 0.21 | $25.00 | 3.5 ¢ |
+| 2026-11-10T23:23 | ETH above $2,020 | no | 0.29 | $25.00 | 3.5 ¢ |
 
 ## 20 derniers trades réglés
 
 | Réglé le | Marché | Côté | Mise | Résultat |
 |---|---|---|---|---|
+| 2026-11-10T23:23 | BTC above $72,750 | no | $25.00 | −$25.00 |
 | 2026-11-10T02:56 | ETH above $2,080 | yes | $25.00 | $3.48 |
 | 2026-11-10T02:56 | BTC above $73,000 | yes | $25.00 | $4.43 |
 | 2026-11-10T02:56 | BTC above $72,500 | yes | $25.00 | $2.88 |
@@ -37,10 +39,9 @@ Dernier passage : 2026-11-10 18:13 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-05T22:58 | BTC above $79,750 | no | $25.00 | $60.00 |
 | 2026-11-05T22:58 | ETH above $2,380 | no | $25.00 | $93.37 |
 | 2026-11-05T22:58 | BTC above $79,500 | no | $25.00 | $82.75 |
-| 2026-11-04T22:49 | BTC above $78,500 | no | $25.00 | −$25.00 |
 
 ## Ce passage
 
-1 nouvelle(s) position(s), 27 échéance(s) lue(s).
+2 nouvelle(s) position(s), 26 échéance(s) lue(s).
 - IBIT options: the US market is closed, so these quotes are from the last session. Paper trades wait for the open.
 - ETHA options: the US market is closed, so these quotes are from the last session. Paper trades wait for the open.
