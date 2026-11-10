@@ -1,10 +1,10 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-09 20:46 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-10 02:56 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
-| 66 | 41 | $190.09 | 11.5 % | $175.48 | 6 | $150.00 |
+| 70 | 45 | $207.44 | 11.9 % | $182.71 | 2 | $50.00 |
 
 ## Positions ouvertes
 
@@ -12,15 +12,15 @@ Dernier passage : 2026-11-09 20:46 UTC. Argent fictif uniquement, aucun ordre r�
 |---|---|---|---|---|---|
 | 2026-10-30T17:21 | IBIT above $41 → $42 by 2026-11-30 | no | 0.31000000000000005 | $25.00 | 4.4 ¢ |
 | 2026-10-30T17:21 | ETHA above $45 → $47 by 2026-11-27 | no | 0.28 | $25.00 | 4.3 ¢ |
-| 2026-11-08T23:10 | BTC above $73,250 | yes | 0.78 | $25.00 | 8.5 ¢ |
-| 2026-11-08T23:10 | BTC above $72,500 | yes | 0.89 | $25.00 | 6.4 ¢ |
-| 2026-11-08T23:10 | BTC above $73,000 | yes | 0.84 | $25.00 | 6.3 ¢ |
-| 2026-11-09T02:37 | ETH above $2,080 | yes | 0.87 | $25.00 | 3.2 ¢ |
 
 ## 20 derniers trades réglés
 
 | Réglé le | Marché | Côté | Mise | Résultat |
 |---|---|---|---|---|
+| 2026-11-10T02:56 | ETH above $2,080 | yes | $25.00 | $3.48 |
+| 2026-11-10T02:56 | BTC above $73,000 | yes | $25.00 | $4.43 |
+| 2026-11-10T02:56 | BTC above $72,500 | yes | $25.00 | $2.88 |
+| 2026-11-10T02:56 | BTC above $73,250 | yes | $25.00 | $6.57 |
 | 2026-11-09T20:45 | BTC above $74,000 | no | $25.00 | −$25.00 |
 | 2026-11-09T20:45 | BTC above $73,900 | no | $25.00 | −$25.00 |
 | 2026-11-08T23:09 | BTC above $75,750 | no | $25.00 | $47.36 |
@@ -37,10 +37,6 @@ Dernier passage : 2026-11-09 20:46 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-05T22:58 | ETH above $2,380 | no | $25.00 | $93.37 |
 | 2026-11-05T22:58 | BTC above $79,500 | no | $25.00 | $82.75 |
 | 2026-11-04T22:49 | BTC above $78,500 | no | $25.00 | −$25.00 |
-| 2026-11-04T22:49 | BTC above $79,000 | no | $25.00 | −$25.00 |
-| 2026-11-04T22:49 | BTC above $79,500 | no | $25.00 | −$25.00 |
-| 2026-11-04T22:49 | BTC above $79,250 | no | $25.00 | −$25.00 |
-| 2026-11-03T22:26 | BTC above $77,500 | no | $25.00 | −$25.00 |
 
 ## Ce passage
 

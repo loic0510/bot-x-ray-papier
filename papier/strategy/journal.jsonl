@@ -136,3 +136,7 @@
 {"at":"2026-11-09T10:16:05.574Z","event":"open","id":"mw93vutiuiom","mode":"paper","openedAt":"2026-11-09T10:16:05.574Z","venue":"kalshi","coin":"btc","ticker":"KXBTCD-26NOV0906-T73999.99","label":"BTC above $74,000","side":"no","K":73999.99,"w":null,"closes":1794222000,"expiry":null,"price":0.35,"cost":0.365925,"fair":0.4043556947554444,"edge":0.03843069475544442,"units":68.32001093120175,"stake":25,"S":74062.86,"sigma":0.38100749507983034,"marketVol":0.338915389378744,"legs":null}
 {"at":"2026-11-09T20:45:59.016Z","event":"settle","id":"mw93vutidg08","ticker":"KXBTCD-26NOV0906-T73899.99","paid":0,"pnl":-25}
 {"at":"2026-11-09T20:45:59.078Z","event":"settle","id":"mw93vutiuiom","ticker":"KXBTCD-26NOV0906-T73999.99","paid":0,"pnl":-25}
+{"at":"2026-11-10T02:56:37.006Z","event":"settle","id":"mw8g39p571x1","ticker":"KXBTCD-26NOV0917-T73249.99","paid":1,"pnl":6.565178305379209}
+{"at":"2026-11-10T02:56:37.093Z","event":"settle","id":"mw8g39p5eqm1","ticker":"KXBTCD-26NOV0917-T72499.99","paid":1,"pnl":2.8752482290854786}
+{"at":"2026-11-10T02:56:37.161Z","event":"settle","id":"mw8g39p533vn","ticker":"KXBTCD-26NOV0917-T72999.99","paid":1,"pnl":4.432263411693793}
+{"at":"2026-11-10T02:56:37.236Z","event":"settle","id":"mw8nhrd3iddo","ticker":"KXETHD-26NOV0917-T2079.99","paid":1,"pnl":3.4764960696740133}
