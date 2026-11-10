@@ -140,3 +140,4 @@
 {"at":"2026-11-10T02:56:37.093Z","event":"settle","id":"mw8g39p5eqm1","ticker":"KXBTCD-26NOV0917-T72499.99","paid":1,"pnl":2.8752482290854786}
 {"at":"2026-11-10T02:56:37.161Z","event":"settle","id":"mw8g39p533vn","ticker":"KXBTCD-26NOV0917-T72999.99","paid":1,"pnl":4.432263411693793}
 {"at":"2026-11-10T02:56:37.236Z","event":"settle","id":"mw8nhrd3iddo","ticker":"KXETHD-26NOV0917-T2079.99","paid":1,"pnl":3.4764960696740133}
+{"at":"2026-11-10T18:13:14.363Z","event":"open","id":"mwb0dblnpkf0","mode":"paper","openedAt":"2026-11-10T18:13:14.363Z","venue":"kalshi","coin":"btc","ticker":"KXBTCD-26NOV1017-T72749.99","label":"BTC above $72,750","side":"no","K":72749.99,"w":null,"closes":1794348000,"expiry":null,"price":0.25,"cost":0.263125,"fair":0.3007341521793403,"edge":0.0376091521793403,"units":95.01187648456057,"stake":25,"S":73125.78,"sigma":0.47050629812035155,"marketVol":0.3866196644855088,"legs":null}
