@@ -1,6 +1,6 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-11 23:41 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-12 04:18 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
@@ -40,7 +40,6 @@ Dernier passage : 2026-11-11 23:41 UTC. Argent fictif uniquement, aucun ordre r�
 
 ## Ce passage
 
-0 nouvelle(s) position(s), 24 échéance(s) lue(s).
+0 nouvelle(s) position(s), 26 échéance(s) lue(s).
 - IBIT options: the US market is closed, so these quotes are from the last session. Paper trades wait for the open.
 - ETHA options: the US market is closed, so these quotes are from the last session. Paper trades wait for the open.
-- Paper loss today is -100.00, past the daily stop of 100. No new trades until tomorrow.
