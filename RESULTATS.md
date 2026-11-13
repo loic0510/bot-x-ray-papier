@@ -1,10 +1,10 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-12 20:30 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-13 01:26 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
-| 75 | 45 | $82.44 | 4.4 % | $201.33 | 5 | $125.00 |
+| 78 | 48 | $103.02 | 5.3 % | $204.58 | 5 | $125.00 |
 
 ## Positions ouvertes
 
@@ -12,14 +12,17 @@ Dernier passage : 2026-11-12 20:30 UTC. Argent fictif uniquement, aucun ordre r�
 |---|---|---|---|---|---|
 | 2026-10-30T17:21 | IBIT above $41 → $42 by 2026-11-30 | no | 0.31000000000000005 | $25.00 | 4.4 ¢ |
 | 2026-10-30T17:21 | ETHA above $45 → $47 by 2026-11-27 | no | 0.28 | $25.00 | 4.3 ¢ |
-| 2026-11-12T12:51 | BTC above $73,250 | no | 0.59 | $25.00 | 3.5 ¢ |
-| 2026-11-12T12:51 | BTC above $70,750 | yes | 0.95 | $25.00 | 3.4 ¢ |
-| 2026-11-12T12:51 | ETH above $1,970 | yes | 0.88 | $25.00 | 3.2 ¢ |
+| 2026-11-13T01:26 | BTC above $68,500 | yes | 0.91 | $25.00 | 5.1 ¢ |
+| 2026-11-13T01:26 | BTC above $71,200 | no | 0.74 | $25.00 | 4.8 ¢ |
+| 2026-11-13T01:26 | BTC above $71,400 | no | 0.91 | $25.00 | 4.1 ¢ |
 
 ## 20 derniers trades réglés
 
 | Réglé le | Marché | Côté | Mise | Résultat |
 |---|---|---|---|---|
+| 2026-11-13T01:26 | ETH above $1,970 | yes | $25.00 | $3.17 |
+| 2026-11-13T01:26 | BTC above $70,750 | yes | $25.00 | $1.22 |
+| 2026-11-13T01:26 | BTC above $73,250 | no | $25.00 | $16.19 |
 | 2026-11-11T23:41 | BTC above $74,750 | yes | $25.00 | −$25.00 |
 | 2026-11-11T23:41 | BTC above $74,000 | no | $25.00 | −$25.00 |
 | 2026-11-11T23:41 | ETH above $2,020 | no | $25.00 | −$25.00 |
@@ -37,12 +40,9 @@ Dernier passage : 2026-11-12 20:30 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-06T22:24 | BTC above $72,500 | yes | $25.00 | $2.02 |
 | 2026-11-06T22:24 | BTC above $72,000 | yes | $25.00 | $1.48 |
 | 2026-11-06T22:24 | BTC above $73,000 | yes | $25.00 | $3.17 |
-| 2026-11-06T10:43 | BTC above $76,300 | yes | $25.00 | −$25.00 |
-| 2026-11-06T10:43 | BTC above $75,900 | no | $25.00 | $87.81 |
-| 2026-11-06T10:43 | ETH above $2,235 | no | $25.00 | $60.00 |
 
 ## Ce passage
 
-0 nouvelle(s) position(s), 24 échéance(s) lue(s).
+3 nouvelle(s) position(s), 24 échéance(s) lue(s).
 - IBIT options: the US market is closed, so these quotes are from the last session. Paper trades wait for the open.
 - ETHA options: the US market is closed, so these quotes are from the last session. Paper trades wait for the open.
