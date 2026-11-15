@@ -1,10 +1,10 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-15 11:22 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-15 17:53 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
-| 93 | 60 | $358.14 | 15.4 % | $254.87 | 9 | $225.00 |
+| 96 | 60 | $283.14 | 11.8 % | $276.27 | 6 | $150.00 |
 
 ## Positions ouvertes
 
@@ -16,14 +16,14 @@ Dernier passage : 2026-11-15 11:22 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-14T23:50 | BTC above $60,250 | yes | 0.91 | $25.00 | 6.8 ¢ |
 | 2026-11-14T23:50 | BTC above $60,000 | yes | 0.92 | $25.00 | 6.4 ¢ |
 | 2026-11-15T03:29 | BTC above $63,750 | no | 0.2 | $25.00 | 4.4 ¢ |
-| 2026-11-15T11:22 | BTC above $65,200 | no | 0.2 | $25.00 | 8.6 ¢ |
-| 2026-11-15T11:22 | BTC above $65,600 | yes | 0.2 | $25.00 | 5.9 ¢ |
-| 2026-11-15T11:22 | BTC above $65,300 | no | 0.33 | $25.00 | 5.8 ¢ |
 
 ## 20 derniers trades réglés
 
 | Réglé le | Marché | Côté | Mise | Résultat |
 |---|---|---|---|---|
+| 2026-11-15T17:52 | BTC above $65,300 | no | $25.00 | −$25.00 |
+| 2026-11-15T17:52 | BTC above $65,600 | yes | $25.00 | −$25.00 |
+| 2026-11-15T17:52 | BTC above $65,200 | no | $25.00 | −$25.00 |
 | 2026-11-15T11:22 | ETH above $1,800 | yes | $25.00 | $2.02 |
 | 2026-11-15T11:22 | BTC above $65,300 | no | $25.00 | $5.46 |
 | 2026-11-14T23:50 | ETH above $1,830 | no | $25.00 | $49.58 |
@@ -41,12 +41,9 @@ Dernier passage : 2026-11-15 11:22 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-13T08:18 | BTC above $71,200 | no | $25.00 | $8.18 |
 | 2026-11-13T01:26 | ETH above $1,970 | yes | $25.00 | $3.17 |
 | 2026-11-13T01:26 | BTC above $70,750 | yes | $25.00 | $1.22 |
-| 2026-11-13T01:26 | BTC above $73,250 | no | $25.00 | $16.19 |
-| 2026-11-11T23:41 | BTC above $74,750 | yes | $25.00 | −$25.00 |
-| 2026-11-11T23:41 | BTC above $74,000 | no | $25.00 | −$25.00 |
 
 ## Ce passage
 
-3 nouvelle(s) position(s), 24 échéance(s) lue(s).
+0 nouvelle(s) position(s), 22 échéance(s) lue(s).
 - IBIT options: the US market is closed, so these quotes are from the last session. Paper trades wait for the open.
 - ETHA options: the US market is closed, so these quotes are from the last session. Paper trades wait for the open.
