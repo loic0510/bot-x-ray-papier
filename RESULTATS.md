@@ -1,10 +1,10 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-15 03:29 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-15 11:22 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
-| 91 | 58 | $350.66 | 15.4 % | $252.47 | 8 | $200.00 |
+| 93 | 60 | $358.14 | 15.4 % | $254.87 | 9 | $225.00 |
 
 ## Positions ouvertes
 
@@ -15,14 +15,17 @@ Dernier passage : 2026-11-15 03:29 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-14T23:50 | ETH above $1,620 | yes | 0.91 | $25.00 | 7.1 ¢ |
 | 2026-11-14T23:50 | BTC above $60,250 | yes | 0.91 | $25.00 | 6.8 ¢ |
 | 2026-11-14T23:50 | BTC above $60,000 | yes | 0.92 | $25.00 | 6.4 ¢ |
-| 2026-11-15T03:29 | BTC above $65,300 | no | 0.81 | $25.00 | 4.5 ¢ |
 | 2026-11-15T03:29 | BTC above $63,750 | no | 0.2 | $25.00 | 4.4 ¢ |
-| 2026-11-15T03:29 | ETH above $1,800 | yes | 0.92 | $25.00 | 3.8 ¢ |
+| 2026-11-15T11:22 | BTC above $65,200 | no | 0.2 | $25.00 | 8.6 ¢ |
+| 2026-11-15T11:22 | BTC above $65,600 | yes | 0.2 | $25.00 | 5.9 ¢ |
+| 2026-11-15T11:22 | BTC above $65,300 | no | 0.33 | $25.00 | 5.8 ¢ |
 
 ## 20 derniers trades réglés
 
 | Réglé le | Marché | Côté | Mise | Résultat |
 |---|---|---|---|---|
+| 2026-11-15T11:22 | ETH above $1,800 | yes | $25.00 | $2.02 |
+| 2026-11-15T11:22 | BTC above $65,300 | no | $25.00 | $5.46 |
 | 2026-11-14T23:50 | ETH above $1,830 | no | $25.00 | $49.58 |
 | 2026-11-14T23:50 | BTC above $63,750 | yes | $25.00 | $1.75 |
 | 2026-11-14T23:50 | BTC above $67,750 | yes | $25.00 | −$25.00 |
@@ -41,8 +44,6 @@ Dernier passage : 2026-11-15 03:29 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-13T01:26 | BTC above $73,250 | no | $25.00 | $16.19 |
 | 2026-11-11T23:41 | BTC above $74,750 | yes | $25.00 | −$25.00 |
 | 2026-11-11T23:41 | BTC above $74,000 | no | $25.00 | −$25.00 |
-| 2026-11-11T23:41 | ETH above $2,020 | no | $25.00 | −$25.00 |
-| 2026-11-11T23:41 | BTC above $72,500 | no | $25.00 | −$25.00 |
 
 ## Ce passage
 
