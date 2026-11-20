@@ -1,10 +1,10 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-19 23:16 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-20 03:59 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
-| 113 | 71 | $516.83 | 18.3 % | $333.11 | 5 | $125.00 |
+| 114 | 71 | $491.83 | 17.3 % | $335.61 | 4 | $100.00 |
 
 ## Positions ouvertes
 
@@ -13,13 +13,13 @@ Dernier passage : 2026-11-19 23:16 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-10-30T17:21 | IBIT above $41 → $42 by 2026-11-30 | no | 0.31000000000000005 | $25.00 | 4.4 ¢ |
 | 2026-10-30T17:21 | ETHA above $45 → $47 by 2026-11-27 | no | 0.28 | $25.00 | 4.3 ¢ |
 | 2026-11-19T23:16 | BTC above $58,500 | yes | 0.94 | $25.00 | 3.4 ¢ |
-| 2026-11-19T23:16 | BTC above $61,900 | no | 0.32 | $25.00 | 3.4 ¢ |
 | 2026-11-19T23:16 | BTC above $59,000 | yes | 0.92 | $25.00 | 3.1 ¢ |
 
 ## 20 derniers trades réglés
 
 | Réglé le | Marché | Côté | Mise | Résultat |
 |---|---|---|---|---|
+| 2026-11-20T03:59 | BTC above $61,900 | no | $25.00 | −$25.00 |
 | 2026-11-19T07:41 | BTC above $62,500 | no | $25.00 | −$25.00 |
 | 2026-11-19T07:41 | BTC above $62,800 | yes | $25.00 | $93.37 |
 | 2026-11-19T00:23 | ETH above $1,760 | no | $25.00 | −$25.00 |
@@ -39,11 +39,10 @@ Dernier passage : 2026-11-19 23:16 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-15T22:11 | ETH above $1,620 | yes | $25.00 | $2.30 |
 | 2026-11-15T17:52 | BTC above $65,300 | no | $25.00 | −$25.00 |
 | 2026-11-15T17:52 | BTC above $65,600 | yes | $25.00 | −$25.00 |
-| 2026-11-15T17:52 | BTC above $65,200 | no | $25.00 | −$25.00 |
 
 ## Ce passage
 
-3 nouvelle(s) position(s), 4 échéance(s) lue(s).
+0 nouvelle(s) position(s), 2 échéance(s) lue(s).
 - IBIT options: cdn.cboe.com answered 403: <!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
