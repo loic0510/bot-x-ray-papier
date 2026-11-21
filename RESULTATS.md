@@ -1,10 +1,10 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-21 16:24 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-21 21:44 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
-| 118 | 74 | $492.46 | 16.7 % | $341.12 | 5 | $125.00 |
+| 121 | 74 | $417.46 | 13.8 % | $352.05 | 2 | $50.00 |
 
 ## Positions ouvertes
 
@@ -12,14 +12,14 @@ Dernier passage : 2026-11-21 16:24 UTC. Argent fictif uniquement, aucun ordre r�
 |---|---|---|---|---|---|
 | 2026-10-30T17:21 | IBIT above $41 → $42 by 2026-11-30 | no | 0.31000000000000005 | $25.00 | 4.4 ¢ |
 | 2026-10-30T17:21 | ETHA above $45 → $47 by 2026-11-27 | no | 0.28 | $25.00 | 4.3 ¢ |
-| 2026-11-21T16:24 | BTC above $60,100 | yes | 0.21 | $25.00 | 5.3 ¢ |
-| 2026-11-21T16:24 | BTC above $59,700 | no | 0.29 | $25.00 | 3.2 ¢ |
-| 2026-11-21T16:24 | BTC above $60,000 | yes | 0.32 | $25.00 | 3.0 ¢ |
 
 ## 20 derniers trades réglés
 
 | Réglé le | Marché | Côté | Mise | Résultat |
 |---|---|---|---|---|
+| 2026-11-21T21:44 | BTC above $60,000 | yes | $25.00 | −$25.00 |
+| 2026-11-21T21:44 | BTC above $59,700 | no | $25.00 | −$25.00 |
+| 2026-11-21T21:44 | BTC above $60,100 | yes | $25.00 | −$25.00 |
 | 2026-11-21T01:45 | BTC above $62,000 | no | $25.00 | $15.53 |
 | 2026-11-21T01:45 | BTC above $62,500 | no | $25.00 | $8.61 |
 | 2026-11-21T01:45 | BTC above $59,000 | yes | $25.00 | −$25.00 |
@@ -37,13 +37,10 @@ Dernier passage : 2026-11-21 16:24 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-17T02:38 | BTC above $65,000 | yes | $25.00 | $66.42 |
 | 2026-11-17T02:38 | ETH above $2,000 | no | $25.00 | $1.75 |
 | 2026-11-17T02:38 | ETH above $1,640 | yes | $25.00 | $1.75 |
-| 2026-11-17T02:38 | ETH above $1,680 | yes | $25.00 | $2.88 |
-| 2026-11-15T22:11 | BTC above $63,750 | no | $25.00 | −$25.00 |
-| 2026-11-15T22:11 | BTC above $60,000 | yes | $25.00 | $2.02 |
 
 ## Ce passage
 
-3 nouvelle(s) position(s), 4 échéance(s) lue(s).
+0 nouvelle(s) position(s), 2 échéance(s) lue(s).
 - IBIT options: cdn.cboe.com answered 403: <!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
