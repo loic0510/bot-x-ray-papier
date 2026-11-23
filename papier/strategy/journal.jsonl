@@ -249,3 +249,4 @@
 {"at":"2026-11-23T02:16:34.437Z","event":"settle","id":"mwr61jo9rqu5","ticker":"KXBTCD-26NOV2217-T58999.99","paid":0,"pnl":-25}
 {"at":"2026-11-23T02:16:34.467Z","event":"settle","id":"mwr61jo906uy","ticker":"KXBTCD-26NOV2217-T61249.99","paid":0,"pnl":-25}
 {"at":"2026-11-23T02:16:36.811Z","event":"open","id":"mwsmx617nhgn","mode":"paper","openedAt":"2026-11-23T02:16:36.811Z","venue":"kalshi","coin":"btc","ticker":"KXBTCD-26NOV2317-T59249.99","label":"BTC above $59,250","side":"no","K":59249.99,"w":null,"closes":1795471200,"expiry":null,"price":0.2,"cost":0.2112,"fair":0.24136274016128412,"edge":0.03016274016128412,"units":118.37121212121212,"stake":25,"S":60727.52,"sigma":0.721921095454723,"marketVol":0.6144792651105202,"legs":null}
+{"at":"2026-11-23T22:15:57.937Z","event":"settle","id":"mwsmx617nhgn","ticker":"KXBTCD-26NOV2317-T59249.99","paid":0,"pnl":-25}

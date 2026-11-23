@@ -53,30 +53,6 @@
     "buy ETHA 2026-11-27 47 put",
     "sell ETHA 2026-11-27 45 put"
    ]
-  },
-  {
-   "id": "mwsmx617nhgn",
-   "mode": "paper",
-   "openedAt": "2026-11-23T02:16:36.811Z",
-   "venue": "kalshi",
-   "coin": "btc",
-   "ticker": "KXBTCD-26NOV2317-T59249.99",
-   "label": "BTC above $59,250",
-   "side": "no",
-   "K": 59249.99,
-   "w": null,
-   "closes": 1795471200,
-   "expiry": null,
-   "price": 0.2,
-   "cost": 0.2112,
-   "fair": 0.24136274016128412,
-   "edge": 0.03016274016128412,
-   "units": 118.37121212121212,
-   "stake": 25,
-   "S": 60727.52,
-   "sigma": 0.721921095454723,
-   "marketVol": 0.6144792651105202,
-   "legs": null
   }
  ],
  "closed": [
@@ -3555,6 +3531,34 @@
    "back": 0,
    "pnl": -25,
    "settledAt": "2026-11-23T02:16:34.467Z"
+  },
+  {
+   "id": "mwsmx617nhgn",
+   "mode": "paper",
+   "openedAt": "2026-11-23T02:16:36.811Z",
+   "venue": "kalshi",
+   "coin": "btc",
+   "ticker": "KXBTCD-26NOV2317-T59249.99",
+   "label": "BTC above $59,250",
+   "side": "no",
+   "K": 59249.99,
+   "w": null,
+   "closes": 1795471200,
+   "expiry": null,
+   "price": 0.2,
+   "cost": 0.2112,
+   "fair": 0.24136274016128412,
+   "edge": 0.03016274016128412,
+   "units": 118.37121212121212,
+   "stake": 25,
+   "S": 60727.52,
+   "sigma": 0.721921095454723,
+   "marketVol": 0.6144792651105202,
+   "legs": null,
+   "paid": 0,
+   "back": 0,
+   "pnl": -25,
+   "settledAt": "2026-11-23T22:15:57.937Z"
   }
  ]
 }

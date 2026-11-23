@@ -1,10 +1,10 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-23 10:49 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-23 22:16 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
-| 124 | 74 | $342.46 | 11.0 % | $374.70 | 3 | $75.00 |
+| 125 | 74 | $317.46 | 10.2 % | $378.27 | 2 | $50.00 |
 
 ## Positions ouvertes
 
@@ -12,12 +12,12 @@ Dernier passage : 2026-11-23 10:49 UTC. Argent fictif uniquement, aucun ordre r�
 |---|---|---|---|---|---|
 | 2026-10-30T17:21 | IBIT above $41 → $42 by 2026-11-30 | no | 0.31000000000000005 | $25.00 | 4.4 ¢ |
 | 2026-10-30T17:21 | ETHA above $45 → $47 by 2026-11-27 | no | 0.28 | $25.00 | 4.3 ¢ |
-| 2026-11-23T02:16 | BTC above $59,250 | no | 0.2 | $25.00 | 3.0 ¢ |
 
 ## 20 derniers trades réglés
 
 | Réglé le | Marché | Côté | Mise | Résultat |
 |---|---|---|---|---|
+| 2026-11-23T22:15 | BTC above $59,250 | no | $25.00 | −$25.00 |
 | 2026-11-23T02:16 | BTC above $61,250 | yes | $25.00 | −$25.00 |
 | 2026-11-23T02:16 | BTC above $59,000 | no | $25.00 | −$25.00 |
 | 2026-11-23T02:16 | BTC above $58,750 | no | $25.00 | −$25.00 |
@@ -37,11 +37,10 @@ Dernier passage : 2026-11-23 10:49 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-19T00:23 | BTC above $63,500 | no | $25.00 | $63.09 |
 | 2026-11-19T00:23 | ETH above $1,760 | no | $25.00 | −$25.00 |
 | 2026-11-19T00:23 | BTC above $63,250 | no | $25.00 | $87.81 |
-| 2026-11-18T01:52 | BTC above $63,500 | no | $25.00 | −$25.00 |
 
 ## Ce passage
 
-0 nouvelle(s) position(s), 2 échéance(s) lue(s).
+0 nouvelle(s) position(s), 4 échéance(s) lue(s).
 - IBIT options: cdn.cboe.com answered 403: <!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
@@ -50,3 +49,4 @@ Dernier passage : 2026-11-23 10:49 UTC. Argent fictif uniquement, aucun ordre r�
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 8]>    <html class="no-
+- Paper loss today is -100.00, past the daily stop of 100. No new trades until tomorrow.
