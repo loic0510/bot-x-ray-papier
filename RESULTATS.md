@@ -1,10 +1,10 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-25 10:12 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-25 19:56 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
-| 131 | 75 | $262.47 | 8.0 % | $414.39 | 5 | $125.00 |
+| 131 | 75 | $262.47 | 8.0 % | $414.39 | 6 | $150.00 |
 
 ## Positions ouvertes
 
@@ -15,6 +15,7 @@ Dernier passage : 2026-11-25 10:12 UTC. Argent fictif uniquement, aucun ordre r�
 | 2026-11-25T10:12 | ETH above $1,610 | no | 0.25 | $25.00 | 3.5 ¢ |
 | 2026-11-25T10:12 | BTC above $57,750 | no | 0.22 | $25.00 | 3.3 ¢ |
 | 2026-11-25T10:12 | BTC above $58,250 | no | 0.32 | $25.00 | 3.0 ¢ |
+| 2026-11-25T19:56 | BTC above $60,250 | yes | 0.24 | $25.00 | 6.3 ¢ |
 
 ## 20 derniers trades réglés
 
@@ -43,7 +44,7 @@ Dernier passage : 2026-11-25 10:12 UTC. Argent fictif uniquement, aucun ordre r�
 
 ## Ce passage
 
-3 nouvelle(s) position(s), 4 échéance(s) lue(s).
+1 nouvelle(s) position(s), 2 échéance(s) lue(s).
 - IBIT options: cdn.cboe.com answered 403: <!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
