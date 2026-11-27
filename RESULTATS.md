@@ -1,6 +1,6 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-27 11:46 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-27 20:20 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
@@ -43,7 +43,7 @@ Dernier passage : 2026-11-27 11:46 UTC. Argent fictif uniquement, aucun ordre r�
 
 ## Ce passage
 
-2 nouvelle(s) position(s), 2 échéance(s) lue(s).
+0 nouvelle(s) position(s), 4 échéance(s) lue(s).
 - IBIT options: cdn.cboe.com answered 403: <!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
