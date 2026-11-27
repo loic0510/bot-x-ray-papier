@@ -53,6 +53,30 @@
     "buy ETHA 2026-11-27 47 put",
     "sell ETHA 2026-11-27 45 put"
    ]
+  },
+  {
+   "id": "mwye75x7zq0m",
+   "mode": "paper",
+   "openedAt": "2026-11-27T02:59:03.739Z",
+   "venue": "kalshi",
+   "coin": "btc",
+   "ticker": "KXBTCD-26NOV2717-T60499.99",
+   "label": "BTC above $60,500",
+   "side": "no",
+   "K": 60499.99,
+   "w": null,
+   "closes": 1795816800,
+   "expiry": null,
+   "price": 0.28,
+   "cost": 0.29411200000000004,
+   "fair": 0.35397624077483425,
+   "edge": 0.05986424077483421,
+   "units": 85.00163203133499,
+   "stake": 25,
+   "S": 61263.25,
+   "sigma": 0.6888020700133093,
+   "marketVol": 0.48476605411793083,
+   "legs": null
   }
  ],
  "closed": [
