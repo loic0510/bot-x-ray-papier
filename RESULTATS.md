@@ -1,6 +1,6 @@
 # Résultats de la simulation (papier)
 
-Dernier passage : 2026-11-28 02:50 UTC. Argent fictif uniquement, aucun ordre réel.
+Dernier passage : 2026-11-28 10:56 UTC. Argent fictif uniquement, aucun ordre réel.
 
 | Trades réglés | Gagnés | Gain fictif | Rendement | Gain attendu par le modèle | Positions ouvertes | Mise en jeu |
 |---|---|---|---|---|---|---|
